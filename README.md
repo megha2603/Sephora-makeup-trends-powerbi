@@ -1,4 +1,4 @@
-# Sephora-makeup-trends-powerbi
+ # Sephora-makeup-trends-powerbi
 A Power BI dashboard exploring global makeup trends using Sephora insights.
 
 🔍 Here's what the data reveals:
@@ -17,5 +17,7 @@ A Power BI dashboard exploring global makeup trends using Sephora insights.
 
 🛠️ Dashboard Details:
 Built in Power BI with zero DAX just creativity + clean visuals
+
 Included: Custom visuals, slicers, icons, emojis, and a pastel-inspired Sephora friendly color palette
+
 Brand Inspiration: SEPHORA, for driving beauty trends that are both data-worthy and global 💄
